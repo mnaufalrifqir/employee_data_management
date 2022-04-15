@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650022643 source:d:\kuliah\semester 3\praktikum std\rpl\data\main\data.cpp
+	"data.h"
+
+1650021929 d:\kuliah\semester 3\praktikum std\rpl\data\main\data.h
+	<iostream>
+
